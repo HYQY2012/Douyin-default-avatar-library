@@ -1,2 +1,2 @@
-# Douyin-default-avatar-library
-抖音默认头像库;Douyin default avatar library.
+# Douyin(CN)-default-avatar-library
+以下是抖音默认高清头像;Douyin default avatar library.
